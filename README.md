@@ -17,3 +17,4 @@ Here are some ideas to get you started:
 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=mikihito-h&count_private=true&hide=stars,contribs)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=mikihito-h&layout=compact)](https://github.com/mikihito-h/github-readme-stats)
